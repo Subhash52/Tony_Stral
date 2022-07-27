@@ -1,0 +1,3 @@
+git config --globaluser name."subhash52"
+
+git
