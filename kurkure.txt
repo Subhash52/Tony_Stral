@@ -8,3 +8,9 @@ git config --globaluser email."subhashchukka52@gmail.com"
 git commit 
 
 git log
+
+ mkdir creat folder
+ 
+ rmdir delete folder
+
+ vim 
