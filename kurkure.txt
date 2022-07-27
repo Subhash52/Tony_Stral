@@ -3,3 +3,8 @@ git config --globaluser name."subhash52"
 git
 
 git config --globaluser email."subhashchukka52@gmail.com"
+
+
+git commit 
+
+git log
