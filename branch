@@ -1,3 +1,5 @@
 clone 
 git revert
 git remote 
+git checkout -b
+git cherry-pick
