@@ -1,7 +1,0 @@
-Hello WOrld
-This is first programm 
-for i in range(10):
-   if i>a;
-     print(a)
-    else:
-      print(b)
