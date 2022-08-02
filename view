@@ -1,0 +1,24 @@
+
+git config --global user.name"-"
+git config --global user.email"-"
+git status
+git add .
+git commit -m"-" 
+git log
+git init
+git push
+git pull
+git help
+
+
+
+touch   : create text file
+ls      :list of the string
+mkdir    :create folder
+vim     :type
+cat     :to see the matter or read only 
+rmdir   :delete the folder
+rm -rf  :delet the text file and folder
+
+
+
